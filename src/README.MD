@@ -24,6 +24,7 @@ Developed as part of the **Junior Python Developer – Crypto Trading Bot** inte
 
 project_root/
 ├── src/
+| ├── .env # API credentials (excluded from version control)
 │ ├── init.py
 │ ├── basic_bot.py # Core Binance REST client
 │ ├── market_orders.py # Handles market orders
@@ -33,7 +34,6 @@ project_root/
 │ ├── init.py
 │ └── stop_limit.py # Stop-Limit (advanced order)
 ├── bot.log # Auto-created log file
-├── .env # API credentials (excluded from version control)
 └── README.md
 ---
 
