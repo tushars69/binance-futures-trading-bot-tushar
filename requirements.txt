@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+numpy
+xgboost
+scikit-learn
+joblib
+python-dotenv
+openai
+langchain
+faiss-cpu
+mcp-server               
